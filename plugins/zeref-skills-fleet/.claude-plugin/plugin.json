@@ -22,7 +22,6 @@
     "operations"
   ],
   "skills": "./skills",
-  "agents": "./agents",
   "commands": "./commands",
   "outputStyles": "./output-styles"
 }

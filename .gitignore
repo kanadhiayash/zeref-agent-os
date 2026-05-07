@@ -20,4 +20,4 @@ __pycache__/
 .claude/settings.local.json
 
 # Nested standalone repo (separate git history, not a submodule)
-zeref-skills-fleet/
+/zeref-skills-fleet/
