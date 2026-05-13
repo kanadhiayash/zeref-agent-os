@@ -467,15 +467,9 @@ The above copyright notice and this permission notice shall be included in all c
 
 ## Contributing
 
-This is personal infrastructure for Yash Kanadhia. It is not an open-source project accepting public contributions.
+This is an open-source project accepting public contributions.
 
-- No public pull requests
-- No external contributors
-- No issue tracker for feature requests
-
-This repo exists as **proof of work**, **portfolio signal**, and **personal execution tooling**.
-
-If you want to build your own version, fork the repo and adapt the architecture to your own operating system. Attribution appreciated but not required.
+If you want to build your own version, fork the repo and adapt the architecture to your own operating system. Attribution appreciated.
 
 ---
 
